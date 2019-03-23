@@ -23,7 +23,7 @@ $ chmod +x /path/to/firefox_new_profile.sh
 $ cat >> "${HOME}/.bash_aliases" <<EOL
 
 # custom alias - added on $(date '+%Y-%m-%d %H:%M:%S')
-alias ffnew='/media/data/firefox/firefox_new_profile/repo/firefox_new_profile.sh'
+alias ffnew='/path/to/firefox_new_profile.sh'
 EOL
 
 # ------------------------------------------------------------------------------
